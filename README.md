@@ -1,6 +1,6 @@
 有很多游戏都禁止使用按键精灵或者一些市面上常见的鼠标键盘模拟工具。导致玩很多游戏，没办法键盘鼠标自己按意图去重复操作，最后实属无奈，写了这款工具。为释放双手而研发！！！
 
-`更多更详细的说明参考：https://woj.app/9445.html
+**更多更详细的说明参考：https://woj.app/9445.html**
 
 鼠键动作指定工具 - 升级版软件截图
 [img]![image](https://github.com/user-attachments/assets/b334f14b-e248-49c8-8212-f3320c0a3d62)
@@ -50,3 +50,7 @@ time：后面的“时间”，是针对当前行的，当前行的鼠标、键�
  
 
 鼠键动作指定工具 - 升级版软件下载：https://github.com/sysalong/Mouse-and-Button-Action-Assignment-Tool/releases/download/v2.0/Mouse-and-Button-Action-Assignment-Tool_v2.0.zip
+
+**更多更详细的说明参考：https://woj.app/9445.html**
+**更多更详细的说明参考：https://woj.app/9445.html**
+**更多更详细的说明参考：https://woj.app/9445.html**
